@@ -36,7 +36,7 @@
   "author": "Igor Gaponov (gapon2401)",
   "license": "MIT",
   "devDependencies": {
-    "@testing-library/react": "^13.3.0",
+    "@testing-library/react": "^15.0.7",
     "@types/jest": "^28.1.1",
     "@types/react": "^18.0.12",
     "@typescript-eslint/eslint-plugin": "^5.27.1",
